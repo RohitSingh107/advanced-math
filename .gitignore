@@ -1,0 +1,11 @@
+/node_modules
+*.sw[po]
+/.cargo
+/dist
+.env
+src/client/util/store
+test-ledger/
+.DS_Store
+python-env
+src/client/__pycache__
+src/calculator/target
